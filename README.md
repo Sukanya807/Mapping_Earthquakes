@@ -25,19 +25,19 @@ The purpose of this project is to build insightful data visualizations with inte
 
 ## Practice Modules
 
-#### Mapping GeoJSON Points
+#### Mapping GeoJSON Points (Major Airports)
 
 ![](images/mapping_geojson_points.png)
 
-#### Mapping Lines
+#### Mapping Lines (Flight Route SFO-Austin-Toronto-New York)
 
 ![](images/mapping_lines.png)
 
-#### Mapping Linestrings
+#### Mapping Linestrings (Flights from Toronto)
 
 ![](images/toronto_linestrings.png)
 
-#### Mapping Polygons
+#### Mapping Polygons (Toronto Neighbourhoods)
 
 ![](images/mapping_polygons.png)
 
